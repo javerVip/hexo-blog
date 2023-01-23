@@ -2,7 +2,6 @@ title: Landray FAQ
 date: '2022-12-27 16:05:36'
 updated: '2022-12-27 16:05:36'
 tags: [FAQ]
-permalink: /articles/2022/12/27/1672128525038.html
 ---
 ## 🙌 说明
 

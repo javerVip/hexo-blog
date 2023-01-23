@@ -2,7 +2,6 @@ title: 批量更新 OpenWRT 软件包
 date: '2022-12-16 18:38:11'
 updated: '2022-12-16 20:01:51'
 tags: [openwrt, iStoreOS]
-permalink: /articles/2022/12/16/1671187091071.html
 ---
 ## 分开更新
 

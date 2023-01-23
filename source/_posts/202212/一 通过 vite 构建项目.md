@@ -2,7 +2,6 @@ title: 一 通过 vite 构建项目
 date: '2022-12-27 16:25:20'
 updated: '2022-12-27 16:33:54'
 tags: [Vue3, Vite, 构建, 项目]
-permalink: /articles/2022/12/27/1672129524292.html
 ---
 ## 安装 vite
 

@@ -2,7 +2,6 @@ title: 三 VSCode 插件配置
 date: '2022-12-27 16:25:22'
 updated: '2022-12-27 17:09:24'
 tags: [VSCode, 插件, 安装]
-permalink: /articles/2022/12/27/1672131909971.html
 ---
 ## Prettier - Code formatter
 

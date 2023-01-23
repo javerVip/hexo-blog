@@ -2,7 +2,6 @@ title: 二 安装 tailwindcss 到项目中
 date: '2022-12-27 16:25:21'
 updated: '2022-12-27 16:25:24'
 tags: [tailwind, CSS, 项目, 安装]
-permalink: /articles/2022/12/27/1672131234150.html
 ---
 ## 安装依赖
 

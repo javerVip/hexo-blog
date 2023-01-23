@@ -2,7 +2,6 @@ title: R68S iStoreOS 通过 Docker 安装蓝眼云盘
 date: '2022-12-16 19:13:52'
 updated: '2022-12-16 20:01:45'
 tags: [云盘, docker, R68S, iStoreOS]
-permalink: /articles/2022/12/16/1671189232486.html
 ---
 ## MySQL 镜像
 
@@ -149,5 +148,5 @@ cd ~/app/tank-3.1.6
 ## 参考资料
 
 - [安装 | 蓝眼云盘](https://tank-doc.eyeblue.cn/basic/install.html#docker)
-- [Golang 显示支持的os和arch列表](https://javer.vip/articles/2022/12/16/1671190815863.html)
+- [Golang 显示支持的os和arch列表](https://javer.viparticles/2022/12/16/1671190815863.html)
 

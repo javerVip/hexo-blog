@@ -2,7 +2,6 @@ title: fyne 中文乱码解决方案
 date: '2021-09-07 14:20:00'
 updated: '2022-12-23 14:49:13'
 tags: [fyne, 乱码]
-permalink: /articles/2021/09/07/1671776677074.html
 ---
 ## 起因
 

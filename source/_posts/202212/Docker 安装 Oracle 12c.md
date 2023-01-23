@@ -2,7 +2,6 @@ title: Docker 安装 Oracle 12c
 date: '2022-12-13 20:09:52'
 updated: '2022-12-13 20:09:52'
 tags: [docker, oracle]
-permalink: /articles/2022/12/13/1670933392083.html
 ---
 ## 拉取镜像
 
