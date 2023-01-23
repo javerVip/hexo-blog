@@ -91,7 +91,7 @@ prefetch:
   # customs: [/search.json]
 
 # 将文章页的所有外链转换为卡片式外链
-cardlink: true
+cardlink: false
 
 # 图片懒加载
 lazyload:

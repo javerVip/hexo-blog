@@ -1,0 +1,43 @@
+
+class:
+  class_name: 个人站点
+  link_list:
+    - name: 零玖博客
+      link: https://vv1234.cn/
+      avatar: https://vv1234.cn/favicon.ico
+      descr: 分享生活，留住感动
+class2:
+  class_name: 论坛站点
+  link_list:
+    - name: 虎绿林
+      link: https://hu60.cn/
+      avatar: https://hu60.cn/favicon.ico
+
+    - name: 妖火网
+      link: https://yaohuo.me/
+      avatar: https://yaohuo.me/favicon.ico
+class3:
+  class_name: 开源项目
+  class_desc: 一些喜欢的开源项目~
+  link_list:
+    - name: Hexo-MengD
+      link: https://github.com/lete114/hexo-theme-MengD
+      avatar: https://github.com/favicon.ico
+      descr: 一个简洁的hexo主题
+
+    - name: Hexo-Yilia-Pro主题
+      link: https://github.com/lete114/hexo-theme-yilia-pro
+      avatar: https://github.com/favicon.ico
+      descr: 基于Yilia主题优化与修改
+
+    - name: Hexo-SEO-AutoPush
+      link: https://github.com/lete114/hexo-seo-autopush
+      avatar: https://github.com/favicon.ico
+      descr: 每天自动提交网站URL到Baidu、Bing、Google
+class4:
+  class_name: 工具站点
+  class_desc: 一些好用的工具~
+  link_list:
+    - name: 彩虹工具网
+      link: https://tool.cccyun.cc/
+      avatar: https://tool.cccyun.cc/favicon.ico
