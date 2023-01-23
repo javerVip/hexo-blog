@@ -12,7 +12,7 @@ cWmPW9v-z0DrGtJnb9s66o7Q3mW12UAneRp7HgRC
 
 ```shell
 npm i @cloudflare/wrangler -g
-wrangler publish
+hexo clean && hexo g && wrangler publish
 ```
 
 ## 参考资料
