@@ -1,0 +1,10 @@
+name = "hexo-blog"
+type = "webpack"
+account_id = "7dc612883ea583723c3f8d02cc0f285d"
+route = 'javer.vip/*'
+zone_id = '5ac0deaffa6aee41b19f955d0c0e9d71'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "public",entry-point = "workers-site"}
+compatibility_date = "2023-01-23"
