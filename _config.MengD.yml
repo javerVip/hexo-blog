@@ -24,8 +24,10 @@ social:
   fa fa-envelope: mailto:1@javer.vip
 
 title: # 网站标题支持html，可写img标签等
-favicon: /img/favicon.png
-avatar: /img/logo.gif
+# favicon: /img/favicon.png
+# avatar: /img/logo.gif
+favicon: /img/avatar.jpg
+avatar: /img/avatar.jpg
 pageCount: 8 # 首页展示文章数
 darkmode: true # 深色模式
 search: true # 需安装插件: npm install hexo-generator-search --save
