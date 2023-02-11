@@ -1,0 +1,12 @@
+<div id="Discuss-Comments"></div>
+<script>
+  function LoadDiscuss() {
+    mengd.getScript('<%- theme.discuss.source %>', function() {
+      Discuss.init(Object.assign({
+        el: '#Discuss-Comments',
+        serverURLs: '<%- theme.discuss.serverURLs %>',
+      } , <%-JSON.stringify(theme.discuss)%>))
+    })
+  }
+  LoadDiscuss()
+</script>

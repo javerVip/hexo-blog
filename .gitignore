@@ -9,3 +9,4 @@ _multiconfig.yml
 .github
 public/
 package-lock.json
+.git/

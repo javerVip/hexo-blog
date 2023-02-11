@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-mengd",
+  "version": "1.9.0",
+  "description": "A simple, lightweight Hexo theme",
+  "main": "package.json",
+  "scripts": {},
+  "keywords": [
+    "hexo",
+    "theme",
+    "mengd",
+    "hexo-theme-mengd",
+    "hexo-minify",
+    "hexo-seo-autopush"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lete114/Hexo-Theme-MengD"
+  },
+  "author": {
+    "name": "Lete乐特",
+    "url": "https://www.imlete.cn"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
