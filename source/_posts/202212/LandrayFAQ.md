@@ -1,7 +1,7 @@
 title: Landray FAQ
 date: '2022-12-27 16:05:36'
 updated: '2022-12-27 16:05:36'
-tags: [FAQ]
+tags: [Landray, FAQ]
 ---
 ## 🙌 说明
 
