@@ -12,7 +12,7 @@ menu:
   enable: true # 是否开启导航栏
   首页: /
   找文章:
-    - 标签 || /tags
+    # - 标签 || /tags
     # - 分类 || /categories
     - 归档 || /archives
   友情链接: /link/index.html
