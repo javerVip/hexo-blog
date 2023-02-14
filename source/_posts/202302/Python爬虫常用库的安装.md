@@ -126,4 +126,100 @@ driver.get('http://3.cn')
 
 ![2023-02-11_231230.png](/posts-img/2023-02-11_231230.png)
 
-> `driver.page_source` 可以打印出网页源码。
+> 1. `driver.page_source` 可以打印出网页源码。
+> 
+> 2. chromedriver 应当和 chrome 版本号差别不大于3个小版本。
+
+## phantomjs
+
+在后台运行，可以不弹出浏览器页面。
+
+前往 [Download PhantomJS](https://phantomjs.org/download.html) 下载。
+
+运行下方代码：
+
+```
+phantomjs
+new Date()
+// Ctrl+c 退出
+```
+
+输入下方命令验证：
+
+```python
+import selenium
+from selenium import webdriver
+driver = webdriver.PhantomJS()
+driver.get('http://3.cn')
+driver.page_source
+```
+
+整个过程都没有浏览器窗口。
+
+> 如果出现 `AttributeError: module 'selenium.webdriver' has no attribute 'PhantomJS'` 报错，
+> 
+> ```
+> pip uninstall selenium
+> pip install selenium==2.48.0
+> ```
+>
+> 即可解决。
+
+## lxml
+
+网页解析工具。
+
+```
+pip install lxml
+```
+
+## beautifulsoup
+
+网页解析工具，依赖于 lxml。
+
+```
+pip install beautifulsoup4
+```
+
+输入下方命令验证：
+
+```python
+from bs4 import BeautifulSoup
+soup = BeautifulSoup('<html></html>','lxml')
+```
+
+不报错即可。
+
+## pyquery
+
+网页解析工具。
+
+```
+pip install pyquery
+```
+
+输入下方命令验证：
+
+```python
+from pyquery import PyQuery as pq
+doc = pq('<html></html>')
+doc = pq('<html>Hello</html>')
+result = doc('html').text()
+result
+```
+
+## pymysql
+
+```
+pip install pymysql
+```
+
+输入下方命令验证：
+
+```python
+import pymysql
+conn = pymysql.connect(host='localhost', user='root', password='123456', port=3306, db='mysql')
+cursor = conn.cursor()
+cursor.execute('select * from sys')
+cursor.fetchone()
+```
